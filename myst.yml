@@ -8,7 +8,7 @@ project:
   # authors: []
   github: https://github.com/2i2c-nasa-binder-access/docs
   license:
-    code: GPL
+    code: GPL-3.0-or-later
     content: CC-BY-4.0
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
