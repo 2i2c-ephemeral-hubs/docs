@@ -1,7 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 extends:
-  - https://raw.githubusercontent.com/2i2c-nasa-binder-access/open-sci-binder-config/main/myst.yml
+  - https://raw.githubusercontent.com/2i2c-nasa-binder-access/global-myst-config/main/myst.yml
 project:
   open_access: true
   title: Ephemeral Hubs for NASA Communities
