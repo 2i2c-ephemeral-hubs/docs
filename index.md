@@ -26,7 +26,7 @@ Two types of services are available for NASA researchers, educators and learners
 <!-- TODO: Insert screenshot of landing page of the open science hub -->
 :::
 
-Researchers can use the [Open Science BinderHub](https://binder.opensci.2i2c.cloud/) to interactively view and share an approved selection of code repositories that deliver *light scientific content* with small compute and no barriers to authentication.
+Researchers can use the [Open Science BinderHub](https://binder.opensci.2i2c.cloud/) to interactively view and share an approved selection of NASA affiliated code repositories that deliver *light scientific content* with small compute and no barriers to authentication.
 
 ### Leto BinderHub
 

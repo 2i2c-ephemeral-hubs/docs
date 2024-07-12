@@ -1,4 +1,4 @@
-# Leto Hub
+# Leto BinderHub
 
 Researchers can log into Leto to access a BinderHub with more *substantial compute resources* to interactively investigate large datasets and run large workflows from any code repository.
 
