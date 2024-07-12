@@ -1,3 +1,3 @@
-# Update Allowlisted Repositories for the Reader Hub
+# Update Allowlisted Repositories for the Open Science BinderHub
 
 TBC

@@ -16,22 +16,31 @@ Ephemeral hubs in the cloud deliver interactive computing services for NASA affi
 :::
 ::::
 
-## Reader and Explorer Services
+## Service Offering
 
 Two types of services are available for NASA researchers, educators and learners.
 
-### Reader
+### [Open Science BinderHub](https://binder.opensci.2i2c.cloud/)
 
 :::{figure} images/splash.jpg
-<!-- TODO: Insert screenshot of landing page of the reader hub -->
+<!-- TODO: Insert screenshot of landing page of the open science hub -->
 :::
 
-Learners can interactively view a pre-approved selection of code repositories that deliver *light scientific content* with small compute and no barriers to authentication
+Researchers can use the [Open Science BinderHub](https://binder.opensci.2i2c.cloud/) to interactively view and share an approved selection of code repositories that deliver *light scientific content* with small compute and no barriers to authentication.
 
-### Explorer
+### Leto BinderHub
 
 :::{figure} images/splash.jpg
-<!-- TODO: Insert screenshot of landing page of the explorer hub -->
+<!-- TODO: Insert screenshot of landing page of the Leto hub -->
 :::
 
-Learners can log in to access more *substantial compute resources* to interactively investigate large datasets and run large workflows from any code repository.
+Researchers can log into Leto to access a BinderHub with more *substantial compute resources* to interactively investigate large datasets and run large workflows from any code repository.
+
+:::{admonition} What is BinderHub?
+:class: note, dropdown
+[BinderHub](https://binderhub.readthedocs.io/en/latest/) is the software infrastructure that allows users to access and share reproducible interactive computing environments from code repositories in the cloud.
+
+Code repositories that are BinderHub-ready can be referred to as a *binder*, much like a real-life ring binder that holds documents together 📒.
+
+[mybinder.org](https://mybinder.org/) is an open federation of BinderHub services operated by a team of volunteers.
+:::
