@@ -8,7 +8,7 @@ Access the Leto BinderHub at [https://big.binder.opensci.2i2c.cloud/](https://bi
 
 ## Who can use the Leto BinderHub?
 
-Only authorized users can log into the Leto BinderHub through membership of the [GitHub Team](https://github.com/orgs/2i2c-nasa-binder-access/teams/big-binder-team). Details for requesting membership are to be confirmed.
+Only authorized users can log into the Leto BinderHub through membership of the [GitHub Team](https://github.com/orgs/2i2c-ephemeral-hubs/teams/access). Details for requesting membership are to be confirmed.
 
 The login process follows the GitHub authentication flow.
 
