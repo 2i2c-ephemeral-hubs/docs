@@ -20,21 +20,21 @@ Ephemeral hubs in the cloud deliver interactive computing services for NASA affi
 
 Two types of services are available for NASA researchers, educators and learners.
 
-### [Open Science BinderHub](https://binder.opensci.2i2c.cloud/)
+### [Open Science BinderHub](services/open-hub.md)
 
 :::{figure} images/splash.jpg
 <!-- TODO: Insert screenshot of landing page of the open science hub -->
 :::
 
-Researchers can use the [Open Science BinderHub](https://binder.opensci.2i2c.cloud/) to interactively view and share an approved selection of NASA affiliated code repositories that deliver *light scientific content* with small compute and no barriers to authentication.
+Researchers can use the [Open Science BinderHub](services/open-hub.md) to interactively view and share an approved selection of NASA affiliated code repositories that deliver *light scientific content* with small compute and no barriers to authentication.
 
-### Leto BinderHub
+### [Leto BinderHub](services/leto-hub.md)
 
 :::{figure} images/splash.jpg
 <!-- TODO: Insert screenshot of landing page of the Leto hub -->
 :::
 
-Researchers can log into Leto to access a BinderHub with more *substantial compute resources* to interactively investigate large datasets and run large workflows from any code repository.
+Researchers can log into [Leto](services/leto-hub.md) to access a BinderHub with more *substantial compute resources* to interactively investigate large datasets and run large workflows from any code repository.
 
 :::{admonition} What is BinderHub?
 :class: note, dropdown
